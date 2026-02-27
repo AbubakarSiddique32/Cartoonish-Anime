@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn ok notihng special more for you let's goood looking awesome look  eery very fantastic soked yes this will we will see how when the fast will be ended
+        Click on the Vite and React logos to learn ok notihng special more for you let's goood looking awesome look  eery very fantastic soked yes this will we will see how when the fast will be ended and when we will do iftar
       </p>
     </>
   )
