@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and and logo then you realize whats going on there
+        Click on the Vite and and logo then you realize whats going on there field
       </p>
     </>
   )
