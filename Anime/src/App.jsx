@@ -27,7 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and and logo then you realize whats going on there field of the growing
-        ok let me check
+        ok let me check the code file
       </p>
     </>
   )
