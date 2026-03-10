@@ -31,7 +31,7 @@ function App() {
       </p>
       <p>listen ok</p>
       <p>lets go</p>
-      its ok if we stick with this and continue
+      its ok if we stick with this and continue with the hardworking
     </>
   )
 }
