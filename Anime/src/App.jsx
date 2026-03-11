@@ -32,7 +32,7 @@ function App() {
       <p>listen ok</p>
       <p>lets go</p>
       its ok if we stick with this and continue with the hardworking so we have to under stand about everything
-      that makes man perfect
+      that makes man perfect ok lets see
     </>
   )
 }
