@@ -26,13 +26,9 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and and logo then you realize whats going on there field of the growing
-        ok let me check the code file against the odds of programming lets gooo
-      </p>
-      <p>listen ok</p>
-      <p>lets go</p>
-      its ok if we stick with this and continue with the hardworking so we have to under stand about everything
-      that makes man perfect ok lets see
+        Click on the Vite and and logo </p>
+        <h4>Lets GO</h4>
+     
     </>
   )
 }
