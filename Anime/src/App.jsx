@@ -27,7 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and and logo </p>
-        <h4>Lets GO</h4>
+        <h4>Lets GO and start the hardworking for chasing your goals.</h4>
      
     </>
   )
