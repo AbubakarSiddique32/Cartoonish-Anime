@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and and logo </p>
         <h4>Lets GO and start the hardworking for chasing your goals. and focus on that</h4>
-        <p>ok</p>
+        <p>ok lets goo</p>
      
     </>
   )
