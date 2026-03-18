@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and and logo </p>
         <h4>Lets GO and start the hardworking for chasing your goals. and focus on that</h4>
         <p>ok lets gooo lets have a great evening YES you are right exactly that listen what im saying to you</p>
-        <h4>let see whats going on why man oh wow</h4>
+        <h4>let see whats going on why man oh wow its very bad you know</h4>
     </>
   )
 }
