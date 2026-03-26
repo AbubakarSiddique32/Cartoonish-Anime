@@ -25,11 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and and logo </p>
-        <h4>Lets GO and start the hardworking for chasing your goals. and focus on that</h4>
-        <p>lets work on this</p>
-      <h4>lets update the git hub</h4>
+        <p>hey</p>
     </>
   )
 }
