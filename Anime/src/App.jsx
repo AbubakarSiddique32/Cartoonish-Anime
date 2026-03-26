@@ -26,6 +26,7 @@ function App() {
         </p>
       </div>
         <p>hey</p>
+        <h1>Heading</h1>
     </>
   )
 }
