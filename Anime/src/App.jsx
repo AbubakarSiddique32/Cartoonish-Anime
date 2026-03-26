@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and and logo </p>
         <h4>Lets GO and start the hardworking for chasing your goals. and focus on that</h4>
         <p>lets work on this</p>
-      <h4>lets update the github daily  and goes on maximum lets gooo to the space upload the hey ok lets git now yeah finally back to the basics lets schedule our routine why me pc is laging today is the day of eid and evey muslim celebrate that day and spreading happiness lets take a steo</h4>
+      <h4>lets update the github daily  and goes on maximum lets gooo to the space upload the hey ok lets lets gooooooooo git now yeah finally back to the basics lets schedule our routine why me pc is laging today is the day of eid and evey muslim celebrate that day and spreading happiness lets take a steo</h4>
     </>
   )
 }
