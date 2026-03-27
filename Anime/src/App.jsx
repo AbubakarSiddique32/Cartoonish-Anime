@@ -28,7 +28,7 @@ function App() {
         <p>hey</p>
         <h1>Heading</h1>
         <p>paragraph</p>
-        <p>lorem </p>
+        <p>lorem is the sample text</p>
 
     </>
   )
