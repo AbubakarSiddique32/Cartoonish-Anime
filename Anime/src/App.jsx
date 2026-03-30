@@ -35,6 +35,11 @@ function App() {
         <buttton>Click Me</buttton>
         <p>lets goooooo</p>
         <p>ok lets goooo</p>
+        <ul>
+
+
+          <li>Home</li>
+        </ul>
 
     </>
   )
