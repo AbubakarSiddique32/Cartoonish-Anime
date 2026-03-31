@@ -40,6 +40,7 @@ function App() {
 
           <li>Home</li>
           <li>Our story</li>
+          <li>Contact</li>
         </ul>
 
     </>
