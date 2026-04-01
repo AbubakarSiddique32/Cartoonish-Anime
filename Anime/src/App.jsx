@@ -43,6 +43,7 @@ function App() {
           <li>Contact</li>
           <li>About Us</li>
           <li>shop</li>
+          <li>collections</li>
         </ul>
 
     </>
