@@ -42,6 +42,7 @@ function App() {
           <li>Our story</li>
           <li>Contact</li>
           <li>About Us</li>
+          <li>shop</li>
         </ul>
 
     </>
