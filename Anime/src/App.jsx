@@ -44,6 +44,7 @@ function App() {
           <li>About Us</li>
           <li>shop</li>
           <li>collections</li>
+          <li>Our Collections</li>
         </ul>
 
     </>
