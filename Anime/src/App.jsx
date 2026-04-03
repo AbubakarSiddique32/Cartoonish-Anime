@@ -36,16 +36,8 @@ function App() {
         <p>lets goooooo</p>
         <p>ok lets goooo</p>
         <ul>
-
-
-          <li>Home</li>
-          <li>Our story</li>
-          <li>Contact</li>
-          <li>About Us</li>
-          <li>shop</li>
-          <li>collections</li>
-          <li>Our Collections</li>
-          <li>listing</li>
+        <li>Home</li>
+        <li>Our Collections</li>
         </ul>
 
     </>
