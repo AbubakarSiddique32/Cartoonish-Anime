@@ -38,6 +38,8 @@ function App() {
         <ul>
         <li>Home</li>
         <li>Our Collections</li>
+        <li>Shop</li>
+        <li>About Us</li>
         </ul>
 
     </>
