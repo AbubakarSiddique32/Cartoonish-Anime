@@ -40,6 +40,8 @@ function App() {
         <li>Our Collections</li>
         <li>Shop</li>
         <li>About Us</li>
+        <li>Contact Us</li>
+        <li>Faq</li>
         </ul>
 
     </>
