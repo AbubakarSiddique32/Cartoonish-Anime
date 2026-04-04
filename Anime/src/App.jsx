@@ -44,6 +44,10 @@ function App() {
         <li>Faq</li>
         </ul>
 
+        <div>
+          <p>hey</p>
+        </div>
+
     </>
   )
 }
