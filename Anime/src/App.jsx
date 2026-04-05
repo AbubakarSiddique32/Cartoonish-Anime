@@ -45,7 +45,7 @@ function App() {
         </ul>
 
         <div>
-          <p>hey</p>
+          <p>This is the dumpy code for updating the git hub </p>
         </div>
 
     </>
