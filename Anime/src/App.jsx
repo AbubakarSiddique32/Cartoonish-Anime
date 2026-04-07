@@ -50,6 +50,7 @@ function App() {
         <button>Click Me</button>
         <a href=''>Add To Cart</a>
         </div>
+        <div className='new-div'></div>
 
     </>
   )
