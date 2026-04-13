@@ -15,6 +15,7 @@
         <ul>
           <li>Menu</li>
           <li>Shop</li>
+          <li>About</li>
         </ul>
         </div>
         
