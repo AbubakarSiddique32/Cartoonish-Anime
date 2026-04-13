@@ -14,6 +14,7 @@
         <div className='menu'>
         <ul>
           <li>Menu</li>
+          <li>Shop</li>
         </ul>
         </div>
         
