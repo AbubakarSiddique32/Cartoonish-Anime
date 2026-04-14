@@ -13,6 +13,7 @@
         <a href=''> Button </a>
         <div className='menu'>
         <ul>
+          <li>Home</li>
           <li>Menu</li>
           <li>Our Collection</li>
           <li>Shop</li>
