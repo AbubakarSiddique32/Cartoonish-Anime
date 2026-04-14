@@ -14,8 +14,11 @@
         <div className='menu'>
         <ul>
           <li>Menu</li>
+          <li>Our Collection</li>
           <li>Shop</li>
           <li>About</li>
+          <li>Contact</li>
+          
         </ul>
         </div>
         
