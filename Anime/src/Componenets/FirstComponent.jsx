@@ -23,7 +23,7 @@
         </ul>
 
         </div>
-        <p>this is the  paragraph section </p>
+        <p>this is the  paragraph section which is belongs to the queensland </p>
         
         </div>
       )
