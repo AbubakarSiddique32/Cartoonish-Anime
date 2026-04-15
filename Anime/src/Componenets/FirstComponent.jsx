@@ -21,7 +21,9 @@
           <li>Contact</li>
           
         </ul>
+
         </div>
+        <p>this is the  paragraph section </p>
         
         </div>
       )
