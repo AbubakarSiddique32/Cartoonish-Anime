@@ -25,7 +25,7 @@
         </div>
         <p>this is the  paragraph section which is belongs to the queensland </p>
         <p className='para'>nice</p>
-        <p>......</p>
+        <p className='dots'>......</p>
         
         </div>
       )
