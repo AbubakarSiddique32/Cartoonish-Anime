@@ -28,7 +28,7 @@
         <p className='dots'>......</p>
          <div className='div'>
          <a href='button'></a>
-         <p>hey there this is the vs stufio code and im worknig on it </p>
+         <p className='para2'>hey there this is the vs stufio code and im worknig on it </p>
           </div>
         </div>
        
