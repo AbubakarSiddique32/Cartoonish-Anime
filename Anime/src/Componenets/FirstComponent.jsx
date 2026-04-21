@@ -30,6 +30,7 @@
          <a href='button'></a>
          <p className='para2'>hey there this is the vs stufio code and im worknig on it </p>
          <p>hey this is second another paragraph so make it unique and atractive</p>
+         <a>Shop Now</a>
           </div>
         </div>
        
