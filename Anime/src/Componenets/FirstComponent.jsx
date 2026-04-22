@@ -32,7 +32,9 @@
          <p>hey this is second another paragraph so make it unique and atractive</p>
          <a>Shop Now</a>
           </div>
-          <div className='section'></div>
+          <div className='section'>
+            <p>this is my another div for the github</p>
+          </div>
         </div>
         
        
