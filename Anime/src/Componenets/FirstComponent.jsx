@@ -37,7 +37,7 @@
             <a>Click Me</a>
           </div>
           <div className='2nd-section'>
-            <p></p>
+            <p>Hey this is not right</p>
           </div>
         </div>
         
