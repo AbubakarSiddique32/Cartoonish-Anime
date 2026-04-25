@@ -39,6 +39,7 @@
           <div className='2nd-section'>
             <p>Hey this is not right</p>
             <a className='shop-btn'>Shop Now</a>
+            <a>Explore More</a>
           </div>
         </div>
         
