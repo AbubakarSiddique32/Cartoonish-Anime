@@ -38,7 +38,7 @@
           </div>
           <div className='2nd-section'>
             <p>Hey this is not right</p>
-            <a>Shop Now</a>
+            <a className='shop-btn'>Shop Now</a>
           </div>
         </div>
         
