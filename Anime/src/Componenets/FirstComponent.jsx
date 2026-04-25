@@ -38,6 +38,7 @@
           </div>
           <div className='2nd-section'>
             <p>Hey this is not right</p>
+            <a>Shop Now</a>
           </div>
         </div>
         
