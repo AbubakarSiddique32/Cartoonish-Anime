@@ -41,6 +41,7 @@
             <a className='shop-btn'>Shop Now</a>
             <a className='explore-btn'>Explore More</a>
           </div>
+          <div className='3rd-section'></div>
         </div>
         
        
