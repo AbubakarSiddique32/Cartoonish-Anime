@@ -42,7 +42,7 @@
             <a className='explore-btn'>Explore More</a>
           </div>
           <div className='3rd-section'>
-            <p>LETS WRITE SOMETHING THERE</p>
+            <p className='para-3'>LETS WRITE SOMETHING THERE</p>
           </div>
         </div>
         
