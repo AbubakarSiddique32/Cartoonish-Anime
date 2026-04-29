@@ -43,6 +43,7 @@
           </div>
           <div className='3rd-section'>
             <p className='para-3'>LETS WRITE SOMETHING THERE</p>
+            <a>Click Me</a>
           </div>
         </div>
         
