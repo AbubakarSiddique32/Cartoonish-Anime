@@ -42,6 +42,7 @@
             <a className='explore-btn'>Explore More</a>
           </div>
           <div className='3rd-section'>
+          <h1>Heading</h1>
             <p className='para-3'>LETS WRITE SOMETHING THERE</p>
             <a>Click Me</a>
           </div>
