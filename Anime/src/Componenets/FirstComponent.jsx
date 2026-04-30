@@ -44,6 +44,7 @@
           <div className='3rd-section'>
           <h1>Heading</h1>
             <p className='para-3'>LETS WRITE SOMETHING THERE</p>
+            <p>ok lets do it</p>
             <a>Click Me</a>
           </div>
         </div>
