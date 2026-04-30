@@ -46,6 +46,7 @@
             <p className='para-3'>LETS WRITE SOMETHING THERE</p>
             <p>ok lets do it</p>
             <a>Click Me</a>
+            <a className='button'>Button</a>
           </div>
         </div>
         
