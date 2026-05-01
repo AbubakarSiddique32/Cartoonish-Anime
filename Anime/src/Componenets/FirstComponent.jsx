@@ -48,7 +48,9 @@
             <a>Click Me</a>
             <a className='button'>Button</a>
           </div>
-          <div className='3rd-div'></div>
+          <div className='3rd-div'>
+            <p>hey buddy</p>
+          </div>
         </div>
         
        
