@@ -50,7 +50,7 @@
           </div>
           <div className='3rd-div'>
             <p>hey buddy</p>
-            <a>Buy Now</a>
+            <a className='buy-btn'>Buy Now</a>
           </div>
         </div>
         
