@@ -49,6 +49,7 @@
             <a className='button'>Button</a>
           </div>
           <div className='3rd-div'>
+          <h4>this is the heaing 4</h4>
             <p>hey buddy</p>
             <a className='buy-btn'>Buy Now</a>
           </div>
