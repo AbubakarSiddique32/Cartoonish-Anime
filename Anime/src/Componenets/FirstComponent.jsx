@@ -52,6 +52,7 @@
           <h4>this is the heaing 4</h4>
             <p>hey buddy</p>
             <a className='buy-btn'>Buy Now</a>
+            <p>paragraph</p>
           </div>
         </div>
         
