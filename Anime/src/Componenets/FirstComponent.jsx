@@ -52,7 +52,7 @@
           <h4>this is the heaing 4</h4>
             <p>hey buddy</p>
             <a className='buy-btn'>Buy Now</a>
-            <p>paragraph</p>
+            <p>paragraph is the one the way to add text there</p>
           </div>
         </div>
         
