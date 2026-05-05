@@ -54,6 +54,7 @@
             <a className='buy-btn'>Buy Now</a>
             <p>paragraph is the one the way to add text there</p>
             <h4>heading 4</h4>
+            <h3>This is heaidng 3 so make it</h3>
           </div>
         </div>
         
