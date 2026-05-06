@@ -55,7 +55,7 @@
             <p>paragraph is the one the way to add text there</p>
             <h4>heading 4</h4>
             <h3 className='heading'>This is heaidng 3 so make it</h3>
-            <p>paragraph is thr para</p>
+            <p className='para'>paragraph is thr para</p>
           </div>
         </div>
         
