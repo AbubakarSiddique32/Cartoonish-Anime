@@ -4,7 +4,7 @@ const SecondComponent = () => {
   return (
     <div><h1>SecondComponent</h1>
 
-    <p>paragraph</p>
+    <p className='paragraph'>paragraph</p>
     </div>
   )
 }
