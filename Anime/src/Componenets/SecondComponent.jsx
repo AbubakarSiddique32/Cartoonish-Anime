@@ -5,6 +5,7 @@ const SecondComponent = () => {
     <div><h1>SecondComponent</h1>
 
     <p className='paragraph'>paragraph</p>
+    <a>Click Mr</a>
     </div>
   )
 }
