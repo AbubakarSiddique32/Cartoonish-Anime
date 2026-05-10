@@ -7,6 +7,7 @@ const SecondComponent = () => {
     <p className='paragraph'>paragraph</p>
     <a>Click Mr</a>
     <p>lets see this</p>
+    <p>paragraph is in the p tag</p>
     </div>
   )
 }
