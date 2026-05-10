@@ -8,6 +8,7 @@ const SecondComponent = () => {
     <a>Click Mr</a>
     <p>lets see this</p>
     <p>paragraph is in the p tag</p>
+    <a>Shop Now</a>
     </div>
   )
 }
