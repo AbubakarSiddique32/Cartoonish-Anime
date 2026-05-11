@@ -11,6 +11,7 @@ const SecondComponent = () => {
     <a>Shop Now</a>
     <div className='second-div'>
      <p className=' paragrahsecond'>paragraph</p>
+     <a>Explore More</a>
     </div>
     </div>
   )
