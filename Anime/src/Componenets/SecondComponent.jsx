@@ -12,6 +12,7 @@ const SecondComponent = () => {
     <div className='second-div'>
      <p className=' paragrahsecond'>paragraph</p>
      <a>Explore More</a>
+     <p>there is no need to add this  content</p>
     </div>
     </div>
   )
