@@ -9,6 +9,9 @@ const SecondComponent = () => {
     <p>lets see this</p>
     <p>paragraph is in the p tag</p>
     <a>Shop Now</a>
+    <div className='second-div'>
+
+    </div>
     </div>
   )
 }
