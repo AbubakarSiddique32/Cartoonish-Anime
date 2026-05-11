@@ -58,6 +58,7 @@
             <p className='para'>paragraph is thr para</p>
             <a>Button</a>
             <a>Next</a>
+            <a>Previous</a>
           </div>
         </div>
         
