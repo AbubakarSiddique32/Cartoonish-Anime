@@ -14,6 +14,9 @@ const SecondComponent = () => {
      <a>Explore More</a>
      <p>there is no need to add this  content</p>
      <a>lets see</a>
+     <div>
+     <h1>Heading</h1>
+     </div>
     </div>
     </div>
   )
