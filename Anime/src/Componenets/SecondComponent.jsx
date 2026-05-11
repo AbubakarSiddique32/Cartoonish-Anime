@@ -16,6 +16,7 @@ const SecondComponent = () => {
      <a>lets see</a>
      <div>
      <h1>Heading</h1>
+     <h2>heading two</h2>
      </div>
     </div>
     </div>
