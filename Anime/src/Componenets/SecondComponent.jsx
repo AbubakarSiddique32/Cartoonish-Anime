@@ -10,7 +10,7 @@ const SecondComponent = () => {
     <p>paragraph is in the p tag</p>
     <a>Shop Now</a>
     <div className='second-div'>
-     <p>paragraph</p>
+     <p className=' paragrahsecond'>paragraph</p>
     </div>
     </div>
   )
