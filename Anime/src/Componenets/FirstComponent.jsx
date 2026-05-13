@@ -62,6 +62,8 @@
             <ul className='unorder-list'>
               <li>Listing</li>
               <li>Scrapping</li>
+              <li>Listing</li>
+              <li>Uploading</li>
             </ul>
           </div>
         </div>
