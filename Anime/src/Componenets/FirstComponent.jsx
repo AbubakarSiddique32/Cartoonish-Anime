@@ -61,6 +61,7 @@
             <a>Previous</a>
             <ul className='unorder-list'>
               <li>Listing</li>
+              <li>Scrapping</li>
             </ul>
           </div>
         </div>
