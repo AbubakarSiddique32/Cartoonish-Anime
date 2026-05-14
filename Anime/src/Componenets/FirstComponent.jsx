@@ -64,6 +64,7 @@
               <li>Scrapping</li>
               <li>Listing</li>
               <li>Uploading</li>
+              <li>Downloading</li>
             </ul>
           </div>
         </div>
