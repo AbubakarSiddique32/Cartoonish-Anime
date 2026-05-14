@@ -65,6 +65,7 @@
               <li>Listing</li>
               <li>Uploading</li>
               <li>Downloading</li>
+              <li>Shopping</li>
             </ul>
           </div>
         </div>
