@@ -66,6 +66,7 @@
               <li>Uploading</li>
               <li>Downloading</li>
               <li>Shopping</li>
+              <li>About Us</li>
             </ul>
           </div>
         </div>
