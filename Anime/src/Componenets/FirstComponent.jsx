@@ -79,6 +79,7 @@
               <h2>Let's chat</h2>
               <p>this is insane</p>
               <h3>heading 3</h3>
+              <p>paragraph</p>
             </div>
           </div>
         </div>
