@@ -79,7 +79,10 @@
               <h2>Let's chat</h2>
               <p>this is insane</p>
               <h3>heading 3</h3>
-              <p>paragraph</p>
+              <p>paragraph is the only thing where we can add and write the body content</p>
+              <ul>
+                
+              </ul>
             </div>
           </div>
         </div>
