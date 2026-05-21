@@ -81,7 +81,8 @@
               <h3>heading 3</h3>
               <p>paragraph is the only thing where we can add and write the body content</p>
               <ul>
-                
+                <li>Shop</li>
+                <li>Collection</li>
               </ul>
             </div>
           </div>
