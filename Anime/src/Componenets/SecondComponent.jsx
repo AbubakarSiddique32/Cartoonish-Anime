@@ -18,6 +18,7 @@ const SecondComponent = () => {
      <h1 className=''>Heading</h1>
      <h2 className=''>heading two</h2>
      <p>paragraph is the only tag where we can write about body text</p>
+     <h4>that's great</h4>
      </div>
     </div>
     </div>
