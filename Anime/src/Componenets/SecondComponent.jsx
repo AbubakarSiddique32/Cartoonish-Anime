@@ -20,6 +20,9 @@ const SecondComponent = () => {
      <p>paragraph is the only tag where we can write about body text</p>
      <h4>that's great</h4>
      <p>paragraph is the only last thing that make the history</p>
+     <ul>
+      <li>list</li>
+     </ul>
      </div>
     </div>
     </div>
