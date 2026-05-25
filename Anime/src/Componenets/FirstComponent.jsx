@@ -84,6 +84,7 @@
                 <li>Shop</li>
                 <li>Collection</li>
                 <li>listing</li>
+                <li>Shop</li>
               </ul>
             </div>
           </div>
