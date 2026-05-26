@@ -4,7 +4,7 @@ const ThirdComponent = () => {
   return (
     <div>
         <div>
-            <p></p>
+            <p>paragraph </p>
         </div>
     </div>
   )
