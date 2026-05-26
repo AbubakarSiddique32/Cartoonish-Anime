@@ -23,6 +23,7 @@ const SecondComponent = () => {
      <ul>
       <li>list</li>
       <li>Collections</li>
+      <li>Categories</li>
      </ul>
      </div>
     </div>
