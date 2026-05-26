@@ -4,7 +4,7 @@ const ThirdComponent = () => {
   return (
     <div>
         <div>
-        <h2>Heading</h2>
+        <h2 className='heading'>Heading</h2>
             <p>paragraph </p>
         </div>
     </div>
