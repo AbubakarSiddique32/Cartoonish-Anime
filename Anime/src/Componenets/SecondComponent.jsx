@@ -22,6 +22,7 @@ const SecondComponent = () => {
      <p>paragraph is the only last thing that make the history</p>
      <ul>
       <li>list</li>
+      <li>Collections</li>
      </ul>
      </div>
     </div>
